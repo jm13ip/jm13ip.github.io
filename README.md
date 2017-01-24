@@ -13,4 +13,4 @@ Maecenas porttitor, est in feugiat ornare, orci leo fermentum metus, sed viverra
 
 ### Blog Post
 
-[Read Blog Here](blog)
+[Read Blog Here](blog.md)
