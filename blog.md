@@ -29,4 +29,4 @@ Institutional bigotry is a severe and very aggressive accusation, and as such ou
 
   Kirschenbaum, Matthew. ["What Is Digital Humanities and What’s It Doing in English Departments?"](http://dhdebates.gc.cuny.edu/debates/text/38) _Debates in the Digital Humanities._ N.p., 2012. Web. 08 Mar. 2017.
 
-  Bailey, Moya, Anne Cong-Huyen, Alexis Lothian, and Amanda Phillips. ["Reflections on a Movement: #transformDH, Growing Up"]   (http://dhdebates.gc.cuny.edu/debates/text/59) _Debates in the Digital Humanities._ N.p., 2016. Web. 08 Mar. 2017.
+  Bailey, Moya, Anne Cong-Huyen, Alexis Lothian, and Amanda Phillips. ["Reflections on a Movement: #transformDH, Growing Up"]  (http://dhdebates.gc.cuny.edu/debates/text/59) _Debates in the Digital Humanities._ N.p., 2016. Web. 08 Mar. 2017.
