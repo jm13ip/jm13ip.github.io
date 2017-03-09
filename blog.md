@@ -17,7 +17,7 @@
 
   Ultimately, though, we end up having to ask the question of whether or not social justice issues are digital humanities issues. There is certainly merit to that argument. However, that fact alone should not be used as an excuse to abandon any attempt at being objective or neutral. These issues can be analyzed without any particular foregone conclusions or assumptions. If these ideas become the central focus of the digital humanities, the “inclusivity” being preached for will rapidly become exclusivity by omission. How could this direction possibly attract right-leaning or centralists into becoming digital humanities scholars? And if they get alienated completely, then what kind of meaningful political debate can possibly occur in such a politically uniform study?
 
-  After all, if digital humanities truly ARE “white” and must be “cleaned” of its “whiteness,” exactly how welcoming will “non-white” digital humanities be to those whom they “overthrew?” 
+  After all, if digital humanities truly _are_ “white” and must be “cleaned” of its “whiteness,” exactly how welcoming will “non-white” digital humanities be to those whom they “overthrew?” 
 
 
 ### MLA Citations (click article title for link)
