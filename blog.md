@@ -27,7 +27,7 @@
 
 What these individuals fail to realize, however, is that if they get their way and digital humanities is allowed to be reformed into traditional humanities, then there's a good likelihood that foundations, corporations, administrations, and even students will abandon the digital humanities for the same reasons that they have begun to abandon the traditional humanities. Frankly, I don't think even the most diehard neomarxists of the humanities would want that to happen. 
 
-  Therefore, I argue, we should not entertain the political concerns and subject matters of the traditional humanities if we allow the same mistakes and fallacies to made. We cannot allow flimsy arguments with no supporting evidence to go unchallenged due to accusations of bigotry being used to silence discussion. We cannot allow cries for safe spaces, trigger warnings, and special pronouns to distract from our core concerns until they have appropriately proven themselves to be able to hold a mature, open, and honest debate like adults. The name-calling has to end, one way or another.
+  Therefore, I argue, we should not entertain the political concerns and subject matters of the traditional humanities if we allow the same mistakes and fallacies to be made. We cannot allow flimsy arguments with no supporting evidence to go unchallenged due to accusations of bigotry being used to silence discussion. We cannot allow cries for safe spaces, trigger warnings, and special pronouns to distract from our core concerns until they have appropriately proven themselves to be able to hold a mature, open, and honest debate like adults. The name-calling has to end, one way or another.
 
 
 ### MLA Citations (click article title for link)
