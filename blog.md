@@ -1,5 +1,5 @@
 # Blog Post:
-## : A Rebuttal of Tara McPherson's "Why Are the Digital Humanities So White?"
+## Ying XOR Yang : A Rebuttal of Tara McPherson's "Why Are the Digital Humanities So White?"
 
   Tara McPherson's essay _"Why are the Digital Humanities So White?"_ is a difficult essay to argue with. First of all, there isn't even an immediately apparent thesis. The first three paragraphs of the essay don't even address the argument being presented, but instead recounts the author's own personal experiences and struggle to combine their newer interest in digital humanities with their long-standing passion for leftist political concerns. This serves only to confuse the reader as well as remove any pretense of academic neutrality. McPherson instead states her main thesis statements in the fourth paragraph: _"...[That] we desperately need to close the gap between these two modes of inquiry,_ and _"that the difficulties we encounter in knitting together our discussions of race... with our technological productions within the digital humanities... are actually an effect of the very designs of our technological systems."_ 
 
