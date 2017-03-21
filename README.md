@@ -12,3 +12,7 @@ I put a high value on the importance of meaningful debate, and I make a consciou
 ### Blog Post
 
 [Read Blog Here](blog.md)
+
+### Presentation
+
+[Begin Presentation](reveal/index.html)
