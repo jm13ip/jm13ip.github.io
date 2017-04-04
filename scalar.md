@@ -1,8 +1,11 @@
 # Collaborative Project: Scalar
-![](images/scalar title.png)
+
+![](images/scalartitle.png)
 
 ## Project Description:
-![](images/scalar 1.png)
+
+![](images/scalar1.png)
 
 ## Collaboration Statement
-![](images/scalar 2.png)
+
+![](images/scalar2.png)
